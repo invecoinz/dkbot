@@ -1,21 +1,13 @@
-# dkbot
-Crypto Trading Bot for Binance , Bingx , Bitget , 
+Crypto Trading Bot for Binance, Bingx, Bitget
 
-Comandos NPM para la aplicación DK BOT Dashboard
+NPM Commands for the DK BOT Dashboard App
 
-Este archivo contiene los comandos necesarios para instalar, ejecutar y empaquetar la aplicación.
+This file contains the commands needed to install, run, and package the app.
 
-1. Instalar dependencias:
-   Abre una terminal en el directorio raíz del proyecto y ejecuta:
-   npm install
+Install dependencies: Open a terminal in the project root directory and run: npm install
 
-2. Iniciar la aplicación en modo de desarrollo:
-   Después de instalar las dependencias, ejecuta:
-   npm start
+Start the app in development mode: After installing the dependencies, run: npm start
 
-3. Empaquetar la aplicación (opcional):
-   Para crear los artefactos de compilación (sin instalador):
-   npm run package
+Package the app (optional): To create build artifacts (without an installer): npm run package
 
-   Para crear un instalador (ej. .exe, .dmg, .deb/.rpm):
-   npm run make
+To create an installer (e.g., .exe, .dmg, .deb/.rpm): npm run make
